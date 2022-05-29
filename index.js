@@ -3,7 +3,6 @@ module.exports = {
     jest: true,
     node: true
   },
-  parser: '@babel/eslint-parser',
   parserOptions: {
     ecmaVersion: 2022,
     sourceType: 'module'
